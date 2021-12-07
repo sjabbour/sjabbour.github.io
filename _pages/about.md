@@ -16,10 +16,18 @@ I did my undergrad at the University of Michigan, where I received my BSE in [Co
 
 News
 ===
+- "Respecting Autonomy and Enabling Diversity: The Effect of Eligibility and Enrollment on Research Data Demographics" published in [Health Affairs](https://www.healthaffairs.org/doi/10.1377/hlthaff.2021.01197)! 
 - "Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts" accepted at [MLHC](https://www.mlforhc.org/)! 
 
 Publications
 ===
+
+**Respecting Autonomy and Enabling Diversity: The Effect of Eligibility and Enrollment on Research Data Demographics** <br/>
+<img src="/images/mgi.png" style="height: 150px; width:400px;" align=left /> Many promising advances in precision health and other Big Data research rely on large data sets to analyze correlations among genetic variants, behavior, environment, and outcomes to improve population health. But these data sets are generally populated with demographically homogeneous cohorts. We conducted a retrospective cohort study of patients at a major academic medical center during 2012–19 to explore how recruitment and enrollment approaches affected the demographic diversity of participants in its research biospecimen and data bank. We found that compared with the overall clinical population, patients who consented to enroll in the research data bank were significantly less diverse in terms of age, sex, race, ethnicity, and socioeconomic status. Compared with patients who were recruited for the data bank, patients who enrolled were younger and less likely to be Black or African American, Asian, or Hispanic. The overall demographic diversity of the data bank was affected as much (and in some cases more) by which patients were considered eligible for recruitment as by which patients consented to enroll. Our work underscores the need for systemic commitment to diversify data banks so that different communities can benefit from research.
+
+
+**Sarah Jabbour**, Kayte Spector-Bagdady, Shengpu Tang, W. Nicholson Price II, Ana Bracic, Melissa S. Creary, Sachin Kheterpal, Chad M. Brummett, Jenna Wiens. *Health Affairs*, December 2021[\[Paper\]](https://www.healthaffairs.org/doi/10.1377/hlthaff.2021.01197)
+
 
 **Deep Learning Applied to Chest X-rays: Exploiting and Preventing Shortcuts** <br/>
 <img src="/images/chest.png" style="height: 150px; width:400px;" align=left /> Recently, deep learning has made significant improvements in automating the diagnosis of disease from chest X-rays. However, these models are easily susceptible to the use of features that do not directly cause disease, but rather are correlated with disease in the training population. Since these features may not transfer across populations, we developed an approach to encourage models to use *clinically relevant* features in the data. 
@@ -27,6 +35,7 @@ Publications
 
 
 **Sarah Jabbour**, David Fouhey, Ella Kazerooni, Michael W. Sjoding, Jenna Wiens. Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts. *MLHC*, August 2020. [\[PDF\]](files/jabbour20.pdf) [\[Code\]](https://gitlab.eecs.umich.edu/mld3/deep-learning-applied-to-chest-x-rays-exploiting-and-preventing-shortcuts) [\[Video\]](https://www.youtube.com/watch?v=xzSL7f5CjzI&t=5s) [\[Bibtex\]](files/jabbour20.bib) 
+
 
 Teaching
 ===
