@@ -10,17 +10,24 @@ redirect_from:
 
 About Me [(CV)](files/CV.pdf)
 ===
-I'm a Computer Science and Engineering PhD Student at the [University of Michigan](https://umich.edu/) working with Professors [Jenna Wiens](https://wiens-group.engin.umich.edu/) and [David Fouhey](https://web.eecs.umich.edu/~fouhey/). My research focuses on machine learning and computer vision, with applications in healthcare. 
+I'm a Computer Science and Engineering PhD Candidate at the [University of Michigan](https://umich.edu/) working with Professors [Jenna Wiens](https://wiens-group.engin.umich.edu/) and [David Fouhey](https://web.eecs.umich.edu/~fouhey/). My research focuses on machine learning and computer vision, with applications in healthcare. 
 
 I did my undergrad at the University of Michigan, where I received my BSE in [Computer Science and Engineering](https://cse.engin.umich.edu/) and my BBA from the [Ross School of Business](https://michiganross.umich.edu/). 
 
 News
 ===
+- "Augmenting existing deterioration indices with chest radiographs to predict clinical deterioration" published in [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263922)! 
 - "Respecting Autonomy and Enabling Diversity: The Effect of Eligibility and Enrollment on Research Data Demographics" published in [Health Affairs](https://www.healthaffairs.org/doi/10.1377/hlthaff.2021.01197)! 
 - "Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts" accepted at [MLHC](https://www.mlforhc.org/)! 
 
 Publications
 ===
+
+**Augmenting existing deterioration indices with chest radiographs to predict clinical deterioration** <br/>
+<img src="/images/emily.PNG" style="height: 150px; width:400px;" align=left /> Augmenting existing deterioration indices with chest radiographs results in better identification of low-risk patients. The model augmentation strategy could be used in the future to incorporate other forms of unstructured data into existing disease models.
+
+
+Emily Mu, **Sarah Jabbour**, Adrian V. Dalca, John Guttag, Jenna Wiens, Michael W. Sjoding. *PLOS ONE*, February 2022[\[Paper\]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263922)
 
 **Respecting Autonomy and Enabling Diversity: The Effect of Eligibility and Enrollment on Research Data Demographics** <br/>
 <img src="/images/mgi.png" style="height: 150px; width:400px;" align=left /> Many promising advances in precision health and other Big Data research rely on large data sets to analyze correlations among genetic variants, behavior, environment, and outcomes to improve population health. But these data sets are generally populated with demographically homogeneous cohorts. We conducted a retrospective cohort study of patients at a major academic medical center during 2012–19 to explore how recruitment and enrollment approaches affected the demographic diversity of participants in its research biospecimen and data bank. We found that compared with the overall clinical population, patients who consented to enroll in the research data bank were significantly less diverse in terms of age, sex, race, ethnicity, and socioeconomic status. Compared with patients who were recruited for the data bank, patients who enrolled were younger and less likely to be Black or African American, Asian, or Hispanic. The overall demographic diversity of the data bank was affected as much (and in some cases more) by which patients were considered eligible for recruitment as by which patients consented to enroll. Our work underscores the need for systemic commitment to diversify data banks so that different communities can benefit from research.
