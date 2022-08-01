@@ -28,7 +28,8 @@ Publications
 <img src="/images/JAMIA.png" style="height: 150px; width:400px;" align=left /> When patients develop acute respiratory failure, accurately identifying the underlying etiology is essential for determining the best treatment. However, differentiating between common medical diagnoses can be challenging in clinical practice. Machine learning models could improve medical diagnosis by aiding in the diagnostic evaluation of these patients. Materials and Methods: Machine learning models were trained to predict the common causes of acute respiratory failure (pneumonia, heart failure, and/or COPD). We trained models using chest radiographs and clinical data from the electronic health record (EHR) and applied to an internal and external cohort. A model combining chest radiographs and EHR data outperformed models based on each modality alone. Machine learning models combining chest radiographs and EHR data can accurately differentiate between common causes of acute respiratory failure. Further work is needed to determine how these models could act as a diagnostic aid to clinicians in clinical settings.
 
 
-**Sarah Jabbour**, David Fouhey, Ella Kazerooni, Jenna Wiens, Michael W. Sjoding. Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts. *MLHC*, August 2020. [\[PDF\]](https://arxiv.org/pdf/2108.12530.pdf) [\[Code\]](https://github.com/MLD3/Combining-chest-X-rays-and-EHR-data-ARF) [\[Bibtex\]](files/JAMIA.bib) 
+**Sarah Jabbour**, David Fouhey, Ella Kazerooni, Jenna Wiens, Michael W. Sjoding. Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts. *JAMIA*, March 2022. 
+[\[PDF\]](https://arxiv.org/pdf/2108.12530.pdf) [\[Code\]](https://github.com/MLD3/Combining-chest-X-rays-and-EHR-data-ARF) [\[Bibtex\]](files/JAMIA.bib) 
 
 
 
@@ -36,7 +37,8 @@ Publications
 <img src="/images/emily.PNG" style="height: 150px; width:400px;" align=left /> Augmenting existing deterioration indices with chest radiographs results in better identification of low-risk patients. The model augmentation strategy could be used in the future to incorporate other forms of unstructured data into existing disease models.
 
 
-Emily Mu, **Sarah Jabbour**, Adrian V. Dalca, John Guttag, Jenna Wiens, Michael W. Sjoding. *PLOS ONE*, February 2022[\[Paper\]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263922)
+Emily Mu, **Sarah Jabbour**, Adrian V. Dalca, John Guttag, Jenna Wiens, Michael W. Sjoding. *PLOS ONE*, February 2022. 
+[\[Paper\]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263922)
 
 **Respecting Autonomy and Enabling Diversity: The Effect of Eligibility and Enrollment on Research Data Demographics** <br/>
 <img src="/images/mgi.png" style="height: 150px; width:400px;" align=left /> Many promising advances in precision health and other Big Data research rely on large data sets to analyze correlations among genetic variants, behavior, environment, and outcomes to improve population health. But these data sets are generally populated with demographically homogeneous cohorts. We conducted a retrospective cohort study of patients at a major academic medical center during 2012–19 to explore how recruitment and enrollment approaches affected the demographic diversity of participants in its research biospecimen and data bank. We found that compared with the overall clinical population, patients who consented to enroll in the research data bank were significantly less diverse in terms of age, sex, race, ethnicity, and socioeconomic status. Compared with patients who were recruited for the data bank, patients who enrolled were younger and less likely to be Black or African American, Asian, or Hispanic. The overall demographic diversity of the data bank was affected as much (and in some cases more) by which patients were considered eligible for recruitment as by which patients consented to enroll. Our work underscores the need for systemic commitment to diversify data banks so that different communities can benefit from research.
@@ -50,7 +52,8 @@ Emily Mu, **Sarah Jabbour**, Adrian V. Dalca, John Guttag, Jenna Wiens, Michael 
 
 
 
-**Sarah Jabbour**, David Fouhey, Ella Kazerooni, Michael W. Sjoding, Jenna Wiens. Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts. *MLHC*, August 2020. [\[PDF\]](files/jabbour20.pdf) [\[Code\]](https://gitlab.eecs.umich.edu/mld3/deep-learning-applied-to-chest-x-rays-exploiting-and-preventing-shortcuts) [\[Video\]](https://www.youtube.com/watch?v=xzSL7f5CjzI&t=5s) [\[Bibtex\]](files/jabbour20.bib) 
+**Sarah Jabbour**, David Fouhey, Ella Kazerooni, Michael W. Sjoding, Jenna Wiens. Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts. *MLHC*, August 2020. 
+[\[PDF\]](files/jabbour20.pdf) [\[Code\]](https://gitlab.eecs.umich.edu/mld3/deep-learning-applied-to-chest-x-rays-exploiting-and-preventing-shortcuts) [\[Video\]](https://www.youtube.com/watch?v=xzSL7f5CjzI&t=5s) [\[Bibtex\]](files/jabbour20.bib) 
 
 
 Teaching
