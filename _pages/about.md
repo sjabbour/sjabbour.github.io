@@ -16,12 +16,21 @@ I did my undergrad at the University of Michigan, where I received my BSE in [Co
 
 News
 ===
+- "Combining chest X-rays and electronic health record (EHR) data using machine learning to diagnose acute respiratory failure" published in [JAMIA](https://academic.oup.com/jamia/article-abstract/29/6/1060/6546605)! 
 - "Augmenting existing deterioration indices with chest radiographs to predict clinical deterioration" published in [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263922)! 
 - "Respecting Autonomy and Enabling Diversity: The Effect of Eligibility and Enrollment on Research Data Demographics" published in [Health Affairs](https://www.healthaffairs.org/doi/10.1377/hlthaff.2021.01197)! 
 - "Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts" accepted at [MLHC](https://www.mlforhc.org/)! 
 
 Publications
 ===
+
+**Combining chest X-rays and electronic health record (EHR) data using machine learning to diagnose acute respiratory failure** <br/>
+<img src="/images/JAMIA.png" style="height: 150px; width:400px;" align=left /> When patients develop acute respiratory failure, accurately identifying the underlying etiology is essential for determining the best treatment. However, differentiating between common medical diagnoses can be challenging in clinical practice. Machine learning models could improve medical diagnosis by aiding in the diagnostic evaluation of these patients. Materials and Methods: Machine learning models were trained to predict the common causes of acute respiratory failure (pneumonia, heart failure, and/or COPD). We trained models using chest radiographs and clinical data from the electronic health record (EHR) and applied to an internal and external cohort. A model combining chest radiographs and EHR data outperformed models based on each modality alone. Machine learning models combining chest radiographs and EHR data can accurately differentiate between common causes of acute respiratory failure. Further work is needed to determine how these models could act as a diagnostic aid to clinicians in clinical settings.
+
+
+**Sarah Jabbour**, David Fouhey, Ella Kazerooni, Jenna Wiens, Michael W. Sjoding. Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts. *MLHC*, August 2020. [\[PDF\]](https://arxiv.org/pdf/2108.12530.pdf) [\[Code\]](https://github.com/MLD3/Combining-chest-X-rays-and-EHR-data-ARF) [\[Bibtex\]](files/JAMIA.bib) 
+
+
 
 **Augmenting existing deterioration indices with chest radiographs to predict clinical deterioration** <br/>
 <img src="/images/emily.PNG" style="height: 150px; width:400px;" align=left /> Augmenting existing deterioration indices with chest radiographs results in better identification of low-risk patients. The model augmentation strategy could be used in the future to incorporate other forms of unstructured data into existing disease models.
