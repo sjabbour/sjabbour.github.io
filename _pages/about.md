@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5bpxp1ey462&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
-
-
 
 About Me [(CV)](files/Sarah_Jabbour_CV_2022.pdf)
 ===
@@ -69,4 +66,10 @@ Teaching Assistant:
 
 
 - **TO 301: Business Analytics and Statistics**, Core BBA Class, Fall 2015,  University of Michigan Ross School of Business. With [Mohamed Mostagir](http://www-personal.umich.edu/~mosta/?_ga=2.50348777.1103566218.1597184050-1647609115.1452647709). 
+
+
+Visitors
+=== 
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5bpxp1ey462&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+
 
