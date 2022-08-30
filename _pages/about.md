@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5bpxp1ey462&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+
+
+
 About Me [(CV)](files/Sarah_Jabbour_CV_2022.pdf)
 ===
 I'm a Computer Science and Engineering PhD Candidate at the [University of Michigan](https://umich.edu/) working with Professors [Jenna Wiens](https://wiens-group.engin.umich.edu/) and [David Fouhey](https://web.eecs.umich.edu/~fouhey/). My research focuses on machine learning and computer vision, with applications in healthcare. 
