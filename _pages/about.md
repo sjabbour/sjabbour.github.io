@@ -17,6 +17,7 @@ I did my undergrad at the University of Michigan, where I received my BSE in [Co
 
 News
 ===
+- "Learning Concept Credible Models for Mitigating Shortcuts" published in [NeurIPS](https://blog.neurips.cc/)! 
 - "Combining chest X-rays and electronic health record (EHR) data using machine learning to diagnose acute respiratory failure" published in [JAMIA](https://academic.oup.com/jamia/article-abstract/29/6/1060/6546605)! 
 - "Augmenting existing deterioration indices with chest radiographs to predict clinical deterioration" published in [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263922)! 
 - "Respecting Autonomy and Enabling Diversity: The Effect of Eligibility and Enrollment on Research Data Demographics" published in [Health Affairs](https://www.healthaffairs.org/doi/10.1377/hlthaff.2021.01197)! 
