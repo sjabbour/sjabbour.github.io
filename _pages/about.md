@@ -26,6 +26,32 @@ News
 Publications
 ===
 
+
+**Learning Concept Credible Models for Mitigating Shortcuts** <br/>
+<img src="/images/ccm_overview.png" style="height: 150px; width:400px;" align=left /> During training, models can exploit spurious correlations as shortcuts, resulting
+in poor generalization performance when shortcuts do not persist. In this work,
+assuming access to a representation based on domain knowledge (i.e., known
+concepts) that is invariant to shortcuts, we aim to learn robust and accurate models
+from biased training data. In contrast to previous work, we do not rely solely on
+known concepts, but allow the model to also learn unknown concepts. We propose
+two approaches for mitigating shortcuts that incorporate domain knowledge, while
+accounting for potentially important yet unknown concepts. The first approach
+is two-staged. After fitting a model using known concepts, it accounts for the
+residual using unknown concepts. While flexible, we show that this approach
+is vulnerable when shortcuts are correlated with the unknown concepts. This
+limitation is addressed by our second approach that extends a recently proposed
+regularization penalty. Applied to two real-world datasets, we demonstrate that
+both approaches can successfully mitigate shortcut learning.
+
+
+Jiaxuan Wang, **Sarah Jabbour**, Maggie Makar, Michael W. Sjoding, Jenna Wiens. Learning Concept Credible Models for Mitigating Shortcuts. *NeurIPS*, November 2022. 
+[\[PDF\]](https://openreview.net/pdf?id=yKYCwTvl8eU)
+
+
+
+
+
+
 **Combining chest X-rays and electronic health record (EHR) data using machine learning to diagnose acute respiratory failure** <br/>
 <img src="/images/JAMIA.png" style="height: 150px; width:400px;" align=left /> When patients develop acute respiratory failure, accurately identifying the underlying etiology is essential for determining the best treatment. However, differentiating between common medical diagnoses can be challenging in clinical practice. Machine learning models could improve medical diagnosis by aiding in the diagnostic evaluation of these patients. Materials and Methods: Machine learning models were trained to predict the common causes of acute respiratory failure (pneumonia, heart failure, and/or COPD). We trained models using chest radiographs and clinical data from the electronic health record (EHR) and applied to an internal and external cohort. A model combining chest radiographs and EHR data outperformed models based on each modality alone. Machine learning models combining chest radiographs and EHR data can accurately differentiate between common causes of acute respiratory failure. Further work is needed to determine how these models could act as a diagnostic aid to clinicians in clinical settings.
 
