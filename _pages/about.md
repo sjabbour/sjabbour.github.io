@@ -28,7 +28,7 @@ Publications
 
 
 **Learning Concept Credible Models for Mitigating Shortcuts** <br/>
-<img src="/images/ccm_overview.png" style="height: 150px; width:400px;" align=left /> During training, models can exploit spurious correlations as shortcuts, resulting
+<img src="/images/ccm_overview.png" style="height: 150px; width:300px;" align=left /> During training, models can exploit spurious correlations as shortcuts, resulting
 in poor generalization performance when shortcuts do not persist. In this work,
 assuming access to a representation based on domain knowledge (i.e., known
 concepts) that is invariant to shortcuts, we aim to learn robust and accurate models
@@ -53,7 +53,7 @@ Jiaxuan Wang, **Sarah Jabbour**, Maggie Makar, Michael W. Sjoding, Jenna Wiens. 
 
 
 **Combining chest X-rays and electronic health record (EHR) data using machine learning to diagnose acute respiratory failure** <br/>
-<img src="/images/JAMIA.png" style="height: 150px; width:400px;" align=left /> When patients develop acute respiratory failure, accurately identifying the underlying etiology is essential for determining the best treatment. However, differentiating between common medical diagnoses can be challenging in clinical practice. Machine learning models could improve medical diagnosis by aiding in the diagnostic evaluation of these patients. Materials and Methods: Machine learning models were trained to predict the common causes of acute respiratory failure (pneumonia, heart failure, and/or COPD). We trained models using chest radiographs and clinical data from the electronic health record (EHR) and applied to an internal and external cohort. A model combining chest radiographs and EHR data outperformed models based on each modality alone. Machine learning models combining chest radiographs and EHR data can accurately differentiate between common causes of acute respiratory failure. Further work is needed to determine how these models could act as a diagnostic aid to clinicians in clinical settings.
+<img src="/images/JAMIA.png" style="height: 150px; width:300px;" align=left /> When patients develop acute respiratory failure, accurately identifying the underlying etiology is essential for determining the best treatment. However, differentiating between common medical diagnoses can be challenging in clinical practice. Machine learning models could improve medical diagnosis by aiding in the diagnostic evaluation of these patients. Materials and Methods: Machine learning models were trained to predict the common causes of acute respiratory failure (pneumonia, heart failure, and/or COPD). We trained models using chest radiographs and clinical data from the electronic health record (EHR) and applied to an internal and external cohort. A model combining chest radiographs and EHR data outperformed models based on each modality alone. Machine learning models combining chest radiographs and EHR data can accurately differentiate between common causes of acute respiratory failure. Further work is needed to determine how these models could act as a diagnostic aid to clinicians in clinical settings.
 
 
 **Sarah Jabbour**, David Fouhey, Ella Kazerooni, Jenna Wiens, Michael W. Sjoding. Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts. *JAMIA*, March 2022. 
@@ -62,7 +62,7 @@ Jiaxuan Wang, **Sarah Jabbour**, Maggie Makar, Michael W. Sjoding, Jenna Wiens. 
 
 
 **Augmenting existing deterioration indices with chest radiographs to predict clinical deterioration** <br/>
-<img src="/images/emily.PNG" style="height: 150px; width:400px;" align=left /> Augmenting existing deterioration indices with chest radiographs results in better identification of low-risk patients. The model augmentation strategy could be used in the future to incorporate other forms of unstructured data into existing disease models.
+<img src="/images/emily.PNG" style="height: 150px; width:300;" align=left /> Augmenting existing deterioration indices with chest radiographs results in better identification of low-risk patients. The model augmentation strategy could be used in the future to incorporate other forms of unstructured data into existing disease models.
 
 
 Emily Mu, **Sarah Jabbour**, Adrian V. Dalca, John Guttag, Jenna Wiens, Michael W. Sjoding. *PLOS ONE*, February 2022. 
