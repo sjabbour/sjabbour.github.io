@@ -57,7 +57,7 @@ Jiaxuan Wang, **Sarah Jabbour**, Maggie Makar, Michael W. Sjoding, Jenna Wiens. 
 
 
 **Sarah Jabbour**, David Fouhey, Ella Kazerooni, Jenna Wiens, Michael W. Sjoding. Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts. *JAMIA*, March 2022. 
-[\[PDF\]](https://arxiv.org/pdf/2108.12530.pdf) [\[Code\]](https://github.com/MLD3/Combining-chest-X-rays-and-EHR-data-ARF) [\[Bibtex\]](files/JAMIA.bib) 
+[\[PDF\]](files/jabbour_et_al_2022.pdf) [\[Code\]](https://github.com/MLD3/Combining-chest-X-rays-and-EHR-data-ARF) [\[Bibtex\]](files/JAMIA.bib) 
 
 
 
@@ -72,7 +72,7 @@ Emily Mu, **Sarah Jabbour**, Adrian V. Dalca, John Guttag, Jenna Wiens, Michael 
 <img src="/images/mgi.png" style="height: 150px; width:400px;" align=left /> Many promising advances in precision health and other Big Data research rely on large data sets to analyze correlations among genetic variants, behavior, environment, and outcomes to improve population health. But these data sets are generally populated with demographically homogeneous cohorts. We conducted a retrospective cohort study of patients at a major academic medical center during 2012–19 to explore how recruitment and enrollment approaches affected the demographic diversity of participants in its research biospecimen and data bank. We found that compared with the overall clinical population, patients who consented to enroll in the research data bank were significantly less diverse in terms of age, sex, race, ethnicity, and socioeconomic status. Compared with patients who were recruited for the data bank, patients who enrolled were younger and less likely to be Black or African American, Asian, or Hispanic. The overall demographic diversity of the data bank was affected as much (and in some cases more) by which patients were considered eligible for recruitment as by which patients consented to enroll. Our work underscores the need for systemic commitment to diversify data banks so that different communities can benefit from research.
 
 
-**Sarah Jabbour**, Kayte Spector-Bagdady, Shengpu Tang, W. Nicholson Price II, Ana Bracic, Melissa S. Creary, Sachin Kheterpal, Chad M. Brummett, Jenna Wiens. *Health Affairs*, December 2021. [\[Paper\]](https://www.healthaffairs.org/doi/10.1377/hlthaff.2021.01197)
+**Sarah Jabbour**, Kayte Spector-Bagdady, Shengpu Tang, W. Nicholson Price II, Ana Bracic, Melissa S. Creary, Sachin Kheterpal, Chad M. Brummett, Jenna Wiens. *Health Affairs*, December 2021. [\[PDF\]](files/spector-bagdady_jabbour_et_al_2021.pdf)
 
 
 **Deep Learning Applied to Chest X-rays: Exploiting and Preventing Shortcuts** <br/>
