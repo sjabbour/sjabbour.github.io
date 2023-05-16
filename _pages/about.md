@@ -27,7 +27,7 @@ News
 
 Media
 ===
-[![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+[![Little red riding hood](/images/interview.pdf)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
 
 
 
