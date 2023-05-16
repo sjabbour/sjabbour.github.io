@@ -24,6 +24,13 @@ News
 - "Respecting Autonomy and Enabling Diversity: The Effect of Eligibility and Enrollment on Research Data Demographics" published in [Health Affairs](https://www.healthaffairs.org/doi/10.1377/hlthaff.2021.01197)! 
 - "Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts" accepted at [MLHC](https://www.mlforhc.org/)! 
 
+
+Media
+===
+[![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+
+
+
 Publications
 ===
 
