@@ -25,10 +25,10 @@ News
 - "Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts" accepted at [MLHC](https://www.mlforhc.org/)! 
 
 
-Media
+<!-- Media
 ===
 [![Little red riding hood](/images/interview.pdf)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
-
+ -->
 
 
 Publications
