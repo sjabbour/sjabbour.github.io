@@ -95,12 +95,14 @@ Emily Mu, **Sarah Jabbour**, Adrian V. Dalca, John Guttag, Jenna Wiens, Michael 
 Teaching
 ===
 
-Teaching Assistant: 
 
-- **TO 502: Business Statistics**, Core MBA Class, Fall 2016 - Fall 2020,  University of Michigan Ross School of Business. With [Mohamed Mostagir](http://www-personal.umich.edu/~mosta/?_ga=2.50348777.1103566218.1597184050-1647609115.1452647709). 
+- **Graduate Student Instructor - [EECS 442: Computer Vision](https://www.eecs.umich.edu/courses/eecs442-ahowens/fa23/)**, Fall 2023. With [Andrew Owens](https://www.andrewowens.com/). 
 
 
-- **TO 301: Business Analytics and Statistics**, Core BBA Class, Fall 2015,  University of Michigan Ross School of Business. With [Mohamed Mostagir](http://www-personal.umich.edu/~mosta/?_ga=2.50348777.1103566218.1597184050-1647609115.1452647709). 
+- **Teaching Assistant - TO 502: Business Statistics**, Core MBA Class, Fall 2016 - Fall 2020,  University of Michigan Ross School of Business. With [Mohamed Mostagir](http://www-personal.umich.edu/~mosta/?_ga=2.50348777.1103566218.1597184050-1647609115.1452647709). 
+
+
+- **Teaching Assistant - TO 301: Business Analytics and Statistics**, Core BBA Class, Fall 2015,  University of Michigan Ross School of Business. With [Mohamed Mostagir](http://www-personal.umich.edu/~mosta/?_ga=2.50348777.1103566218.1597184050-1647609115.1452647709). 
 
 
 Visitors
