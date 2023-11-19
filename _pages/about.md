@@ -15,8 +15,10 @@ I'm a Computer Science and Engineering PhD Candidate at the [University of Michi
 
 I did my undergrad at the University of Michigan, where I received my BSE in [Computer Science and Engineering](https://cse.engin.umich.edu/) and my BBA from the [Ross School of Business](https://michiganross.umich.edu/). 
 
+
 News
 ===
+- Honored to have received the 2nd-place presentation award at the 20th University of Michigan [CSE Honors Competition](https://cse.engin.umich.edu/stories/2023-cse-honors-competition-highlights-outstanding-research-by-grad-students)! Check back in December for an updated link with my talk :) 
 - Honored to have been selected as the first-ever recipient of the [CSE HACKS Spirit Award](https://cse.engin.umich.edu/stories/sarah-jabbour-selected-for-cse-hacks-spirit-award)!
 - "Learning Concept Credible Models for Mitigating Shortcuts" published in [NeurIPS](https://blog.neurips.cc/)! 
 - "Combining chest X-rays and electronic health record (EHR) data using machine learning to diagnose acute respiratory failure" published in [JAMIA](https://academic.oup.com/jamia/article-abstract/29/6/1060/6546605)! 
@@ -36,23 +38,11 @@ Publications
 
 
 **Learning Concept Credible Models for Mitigating Shortcuts** <br/>
-<img src="/images/ccm_overview.png" style="height: 150px; width:300px;" align=left /> During training, models can exploit spurious correlations as shortcuts, resulting
-in poor generalization performance when shortcuts do not persist. In this work,
-assuming access to a representation based on domain knowledge (i.e., known
-concepts) that is invariant to shortcuts, we aim to learn robust and accurate models
-from biased training data. In contrast to previous work, we do not rely solely on
-known concepts, but allow the model to also learn unknown concepts. We propose
-two approaches for mitigating shortcuts that incorporate domain knowledge, while
-accounting for potentially important yet unknown concepts. The first approach
-is two-staged. After fitting a model using known concepts, it accounts for the
-residual using unknown concepts. While flexible, we show that this approach
-is vulnerable when shortcuts are correlated with the unknown concepts. This
-limitation is addressed by our second approach that extends a recently proposed
-regularization penalty. Applied to two real-world datasets, we demonstrate that
-both approaches can successfully mitigate shortcut learning.
-
 
 Jiaxuan Wang, **Sarah Jabbour**, Maggie Makar, Michael W. Sjoding, Jenna Wiens. Learning Concept Credible Models for Mitigating Shortcuts. *NeurIPS*, November 2022. 
+
+<img src="/images/ccm_overview.png" style="height: 150px; width:300px;" align=left /> TLDR: Models can take shortcuts due to spurious correlations and perform poorly out of distribution. We propose a regularization penalty that incorporates domain knowledge to encourage models to use known concepts over unknown, potentially spurious concepts. 
+
 [\[PDF\]](https://openreview.net/pdf?id=yKYCwTvl8eU)
 
 
@@ -61,34 +51,41 @@ Jiaxuan Wang, **Sarah Jabbour**, Maggie Makar, Michael W. Sjoding, Jenna Wiens. 
 
 
 **Combining chest X-rays and electronic health record (EHR) data using machine learning to diagnose acute respiratory failure** <br/>
-<img src="/images/JAMIA.png" style="height: 150px; width:300px;" align=left /> When patients develop acute respiratory failure, accurately identifying the underlying etiology is essential for determining the best treatment. However, differentiating between common medical diagnoses can be challenging in clinical practice. Machine learning models could improve medical diagnosis by aiding in the diagnostic evaluation of these patients. Materials and Methods: Machine learning models were trained to predict the common causes of acute respiratory failure (pneumonia, heart failure, and/or COPD). We trained models using chest radiographs and clinical data from the electronic health record (EHR) and applied to an internal and external cohort. A model combining chest radiographs and EHR data outperformed models based on each modality alone. Machine learning models combining chest radiographs and EHR data can accurately differentiate between common causes of acute respiratory failure. Further work is needed to determine how these models could act as a diagnostic aid to clinicians in clinical settings.
-
 
 **Sarah Jabbour**, David Fouhey, Ella Kazerooni, Jenna Wiens, Michael W. Sjoding. Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts. *JAMIA*, March 2022. 
+
+<img src="/images/JAMIA.png" style="height: 150px; width:300px;" align=left /> TLDR: Accurately identifying what is causing a patient's acute respiratory failure (shortness of breath) is difficult, but essential for determining appropriate treatment. We built a model that can predict the common causes of respiratory failure (pneumonia, heart failure, and/or COPD) based on patients' chest X-rays and clinical data. 
+
 [\[PDF\]](files/jabbour_et_al_2022.pdf) [\[Code\]](https://github.com/MLD3/Combining-chest-X-rays-and-EHR-data-ARF) [\[Bibtex\]](files/JAMIA.bib) 
 
 
 
 **Augmenting existing deterioration indices with chest radiographs to predict clinical deterioration** <br/>
-<img src="/images/emily.PNG" style="height: 150px; width:300;" align=left /> Augmenting existing deterioration indices with chest radiographs results in better identification of low-risk patients. The model augmentation strategy could be used in the future to incorporate other forms of unstructured data into existing disease models.
-
 
 Emily Mu, **Sarah Jabbour**, Adrian V. Dalca, John Guttag, Jenna Wiens, Michael W. Sjoding. *PLOS ONE*, February 2022. 
+
+<img src="/images/emily.PNG" style="height: 150px; width:300;" align=left /> Augmenting existing deterioration indices with chest radiographs results in better identification of low-risk patients. The model augmentation strategy could be used in the future to incorporate other forms of unstructured data into existing disease models.
+
 [\[Paper\]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263922)
 
+
+
 **Respecting Autonomy and Enabling Diversity: The Effect of Eligibility and Enrollment on Research Data Demographics** <br/>
-<img src="/images/mgi.png" style="height: 150px; width:400px;" align=left /> Many promising advances in precision health and other Big Data research rely on large data sets to analyze correlations among genetic variants, behavior, environment, and outcomes to improve population health. But these data sets are generally populated with demographically homogeneous cohorts. We conducted a retrospective cohort study of patients at a major academic medical center during 2012–19 to explore how recruitment and enrollment approaches affected the demographic diversity of participants in its research biospecimen and data bank. We found that compared with the overall clinical population, patients who consented to enroll in the research data bank were significantly less diverse in terms of age, sex, race, ethnicity, and socioeconomic status. Compared with patients who were recruited for the data bank, patients who enrolled were younger and less likely to be Black or African American, Asian, or Hispanic. The overall demographic diversity of the data bank was affected as much (and in some cases more) by which patients were considered eligible for recruitment as by which patients consented to enroll. Our work underscores the need for systemic commitment to diversify data banks so that different communities can benefit from research.
 
+**Sarah Jabbour**, Kayte Spector-Bagdady, Shengpu Tang, W. Nicholson Price II, Ana Bracic, Melissa S. Creary, Sachin Kheterpal, Chad M. Brummett, Jenna Wiens. *Health Affairs*, December 2021. 
 
-**Sarah Jabbour**, Kayte Spector-Bagdady, Shengpu Tang, W. Nicholson Price II, Ana Bracic, Melissa S. Creary, Sachin Kheterpal, Chad M. Brummett, Jenna Wiens. *Health Affairs*, December 2021. [\[PDF\]](files/spector-bagdady_jabbour_et_al_2021.pdf)
+<img src="/images/mgi.png" style="height: 150px; width:400px;" align=left /> AI/Big Data rely on large datasets, but these datasets are generally populated with demographically homogeneous cohorts. We studied how recruitment and enrollment approaches at a major academic medical center affect the demographic diversity of its research biospecimen and data bank. Compared with the overall clinical population, patients who ended up in the research data bank were significantly less diverse due to both recruitment and enrollment. We need a systemic commitment to diversify data banks so that different communities can benefit from research.
+
+[\[PDF\]](files/spector-bagdady_jabbour_et_al_2021.pdf)
 
 
 **Deep Learning Applied to Chest X-rays: Exploiting and Preventing Shortcuts** <br/>
-<img src="/images/chest.png" style="height: 150px; width:400px;" align=left /> Recently, deep learning has made significant improvements in automating the diagnosis of disease from chest X-rays. However, these models are easily susceptible to the use of features that do not directly cause disease, but rather are correlated with disease in the training population. Since these features may not transfer across populations, we developed an approach to encourage models to use *clinically relevant* features in the data. 
-
-
 
 **Sarah Jabbour**, David Fouhey, Ella Kazerooni, Michael W. Sjoding, Jenna Wiens. Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts. *MLHC*, August 2020. 
+
+<img src="/images/chest.png" style="height: 150px; width:400px;" align=left /> Deep learning models are easily susceptible to the use of features that do not directly cause disease, but rather are correlated with disease in the training population. Since these features may not transfer across populations, we developed an approach to encourage models to use *clinically relevant* features in the data. 
+
+
 [\[PDF\]](files/jabbour20.pdf) [\[Code\]](https://gitlab.eecs.umich.edu/mld3/deep-learning-applied-to-chest-x-rays-exploiting-and-preventing-shortcuts) [\[Video\]](https://www.youtube.com/watch?v=xzSL7f5CjzI&t=5s) [\[Bibtex\]](files/jabbour20.bib) 
 
 
