@@ -15,6 +15,7 @@ I'm a Computer Science and Engineering PhD Candidate at the [University of Michi
 
 I did my undergrad at the University of Michigan, where I received my BSE in [Computer Science and Engineering](https://cse.engin.umich.edu/) and my BBA from the [Ross School of Business](https://michiganross.umich.edu/). 
 
+**I am looking for research internship positions in Summer 2024. Please reach out if you think I'd be a good match!** 
 
 News
 ===
