@@ -45,14 +45,14 @@ Publications
 
 
 
-**Learning Concept Credible Models for Mitigating Shortcuts** <br/>
+<br/> **Learning Concept Credible Models for Mitigating Shortcuts** <br/>
 Jiaxuan Wang, **Sarah Jabbour**, Maggie Makar, Michael W. Sjoding, Jenna Wiens. *NeurIPS*, November 2022. [\[PDF\]](https://openreview.net/pdf?id=yKYCwTvl8eU)<br/>
 
 <img src="/images/ccm_overview.png" style="height: 150px; width:300px;" align=left /> Models can take shortcuts due to spurious correlations and perform poorly out of distribution. We propose a regularization penalty that incorporates domain knowledge to encourage models to use known concepts over unknown, potentially spurious concepts. <br/>
 
 
 
-**Combining chest X-rays and electronic health record (EHR) data using machine learning to diagnose acute respiratory failure** <br/>
+<br/> **Combining chest X-rays and electronic health record (EHR) data using machine learning to diagnose acute respiratory failure** <br/>
 **Sarah Jabbour**, David Fouhey, Ella Kazerooni, Jenna Wiens, Michael W. Sjoding. *JAMIA*, March 2022. [\[PDF\]](files/jabbour_et_al_2022.pdf) [\[Code\]](https://github.com/MLD3/Combining-chest-X-rays-and-EHR-data-ARF) [\[Bibtex\]](files/JAMIA.bib) <br/>
 
 <img src="/images/JAMIA.png" style="height: 150px; width:300px;" align=left /> Accurately identifying what is causing a patient's acute respiratory failure (shortness of breath) is difficult, but essential for determining appropriate treatment. We built a model that can predict the common causes of respiratory failure (pneumonia, heart failure, and/or COPD) based on patients' chest X-rays and clinical data. <br/>
@@ -60,7 +60,7 @@ Jiaxuan Wang, **Sarah Jabbour**, Maggie Makar, Michael W. Sjoding, Jenna Wiens. 
 
 
 
-**Augmenting existing deterioration indices with chest radiographs to predict clinical deterioration** <br/>
+<br/> **Augmenting existing deterioration indices with chest radiographs to predict clinical deterioration** <br/>
 Emily Mu, **Sarah Jabbour**, Adrian V. Dalca, John Guttag, Jenna Wiens, Michael W. Sjoding. *PLOS ONE*, February 2022. [\[Paper\]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263922)<br/>
 
 <img src="/images/emily.PNG" style="height: 150px; width:300;" align=left /> Augmenting existing deterioration indices with chest radiographs results in better identification of low-risk patients. The model augmentation strategy could be used in the future to incorporate other forms of unstructured data into existing disease models.<br/>
@@ -68,14 +68,14 @@ Emily Mu, **Sarah Jabbour**, Adrian V. Dalca, John Guttag, Jenna Wiens, Michael 
 
 
 
-**Respecting Autonomy and Enabling Diversity: The Effect of Eligibility and Enrollment on Research Data Demographics** <br/>
+<br/> **Respecting Autonomy and Enabling Diversity: The Effect of Eligibility and Enrollment on Research Data Demographics** <br/>
 **Sarah Jabbour**, Kayte Spector-Bagdady, Shengpu Tang, W. Nicholson Price II, Ana Bracic, Melissa S. Creary, Sachin Kheterpal, Chad M. Brummett, Jenna Wiens. *Health Affairs*, December 2021. [\[PDF\]](files/spector-bagdady_jabbour_et_al_2021.pdf)<br/>
 
 
 <img src="/images/mgi.png" style="height: 150px; width:400px;" align=left /> AI/Big Data rely on large datasets, but these datasets are generally populated with demographically homogeneous cohorts. We studied how recruitment and enrollment approaches at a major academic medical center affect the demographic diversity of its research biospecimen and data bank. Compared with the overall clinical population, patients who ended up in the research data bank were significantly less diverse due to both recruitment and enrollment. We need a systemic commitment to diversify data banks so that different communities can benefit from research.<br/>
 
 
-**Deep Learning Applied to Chest X-rays: Exploiting and Preventing Shortcuts** <br/>
+<br/> **Deep Learning Applied to Chest X-rays: Exploiting and Preventing Shortcuts** <br/>
 **Sarah Jabbour**, David Fouhey, Ella Kazerooni, Michael W. Sjoding, Jenna Wiens. *MLHC*, August 2020. [\[PDF\]](files/jabbour20.pdf) [\[Code\]](https://gitlab.eecs.umich.edu/mld3/deep-learning-applied-to-chest-x-rays-exploiting-and-preventing-shortcuts) [\[Video\]](https://www.youtube.com/watch?v=xzSL7f5CjzI&t=5s) [\[Bibtex\]](files/jabbour20.bib) <br/>
 
 
