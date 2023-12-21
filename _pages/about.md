@@ -44,7 +44,7 @@ Publications
 <img src="/images/f2.png" style="height: 150px; width:300px;" align=left /> AI model explanations don't help clinicians recover from the negative impact of biased AI.<br/> 
 
 
-**DEPICT: Diffusion Enabled Permutation Impotance for Image Classification Tasks** <br/>
+<br/> **DEPICT: Diffusion Enabled Permutation Impotance for Image Classification Tasks** <br/>
 **Sarah Jabbour**, Gregory Kondas, Ella Kazerooni, Michael W. Sjoding, David Fouhey\*, Jenna Wiens\*. *In Submission*. <br/>
 
 <img src="/images/depict.png" style="height: 150px; width:300px;" align=left /> Permutation feature importance has been used to explain tabular-based models. We extend this to images via text-conditioned diffusion to generate dataset-level explanations for image-based models!<br/> 
