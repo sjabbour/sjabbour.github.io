@@ -19,6 +19,7 @@ I did my undergrad at the University of Michigan, where I received my BSE in [Co
 
 News
 ===
+- Our new study on measuring the impact of AI and AI explanations is now published in [JAMA](https://jamanetwork.com/journals/jama/article-abstract/2812908) and [its](https://www.mdedge.com/cardiology/article/267133/pulmonology/systemic-bias-ai-models-may-undermine-diagnostic-accuracy?channel=224) [getting](https://fperrywilson.medium.com/explainability-is-a-poor-band-aid-for-biased-ai-in-medicine-3db62a338857) [some](https://www.medscape.com/viewarticle/999319?src=&form=fpf) [press](https://www.medpagetoday.com/special-reports/features/107944)!
 - Honored to have received the 2nd-place presentation award at the 20th University of Michigan [CSE Honors Competition](https://cse.engin.umich.edu/stories/2023-cse-honors-competition-highlights-outstanding-research-by-grad-students)! Check back in December for an updated link with my talk :) 
 - Honored to have been selected as the first-ever recipient of the [CSE HACKS Spirit Award](https://cse.engin.umich.edu/stories/sarah-jabbour-selected-for-cse-hacks-spirit-award)!
 - "Learning Concept Credible Models for Mitigating Shortcuts" published in [NeurIPS](https://blog.neurips.cc/)! 
@@ -36,6 +37,12 @@ News
 
 Publications
 ===
+
+**Measuring the Impact of AI in the Diagnosis of Hospitalized Patients:A Randomized Clinical Vignette Survey Study** <br/>
+**Sarah Jabbour**, David Fouhey, Stephanie Shepard, Thomas S. Valley, Ella A. Kazerooni, Nikola Banovic, Jenna Wiens\*, Michael W. Sjoding\*. *JAMA*. <br/>
+
+<img src="/images/f2.png" style="height: 150px; width:300px;" align=left /> AI model explanations don't help clinicians recover from the negative impact of biased AI.<br/> 
+
 
 **DEPICT: Diffusion Enabled Permutation Impotance for Image Classification Tasks** <br/>
 **Sarah Jabbour**, Gregory Kondas, Ella Kazerooni, Michael W. Sjoding, David Fouhey\*, Jenna Wiens\*. *In Submission*. <br/>
