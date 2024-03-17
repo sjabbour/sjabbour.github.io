@@ -9,17 +9,19 @@ redirect_from:
 ---
 
 
-About Me [(CV)](files/CV.pdf)
+About Me [(CV)](files/Sarah_Jabbour_CV.pdf)
 ===
 I'm a Computer Science and Engineering PhD Candidate at the [University of Michigan](https://umich.edu/) working with Professors [Jenna Wiens](https://wiens-group.engin.umich.edu/) and [David Fouhey](https://web.eecs.umich.edu/~fouhey/). My research focuses on machine learning and computer vision, with applications in healthcare. 
 
 I did my undergrad at the University of Michigan, where I received my BSE in [Computer Science and Engineering](https://cse.engin.umich.edu/) and my BBA from the [Ross School of Business](https://michiganross.umich.edu/). 
 
-**I am looking for research internship positions in Summer 2024. Please reach out if you think I'd be a good match!** 
+**I am looking for research internship positions in Summer 2024. Please reach out at (sjabbour [at] umich.edu) if you think I'd be a good match!** 
 
 News
 ===
-- Our new study on measuring the impact of AI and AI explanations is now published in [JAMA](https://jamanetwork.com/journals/jama/article-abstract/2812908) and [its](https://www.mdedge.com/cardiology/article/267133/pulmonology/systemic-bias-ai-models-may-undermine-diagnostic-accuracy?channel=224) [getting](https://fperrywilson.medium.com/explainability-is-a-poor-band-aid-for-biased-ai-in-medicine-3db62a338857) [some](https://www.medscape.com/viewarticle/999319?src=&form=fpf) [press](https://www.medpagetoday.com/special-reports/features/107944)!
+- I gave a talk at Michigan Medicine's MiCHAMP seminar series on AI for clinical diagnostic decision making. You can watch the video [here](https://www.youtube.com/watch?v=ng0ZDY8HmX0&list=PLNxqP-XbH8BICnKAp1e88b5ZEkZysWZob)! 
+- I was recently interviewed by [Health Tech News](https://htn.co.uk/) on the some of the challenges and opportunities of AI in healthcare. Check out the [article](https://htn.international/interview-sarah-jabbour-university-of-michigan-on-ai-in-healthcare/) to learn more about my work!
+- Our new study on measuring the impact of AI and AI explanations is now published in [JAMA](https://jamanetwork.com/journals/jama/article-abstract/2812908) and [it's](https://www.mdedge.com/cardiology/article/267133/pulmonology/systemic-bias-ai-models-may-undermine-diagnostic-accuracy?channel=224) [getting](https://fperrywilson.medium.com/explainability-is-a-poor-band-aid-for-biased-ai-in-medicine-3db62a338857) [some](https://www.medscape.com/viewarticle/999319?src=&form=fpf) [press](https://www.medpagetoday.com/special-reports/features/107944)!
 - Honored to have received the 2nd-place presentation award at the 20th University of Michigan [CSE Honors Competition](https://cse.engin.umich.edu/stories/2023-cse-honors-competition-highlights-outstanding-research-by-grad-students)! Check back in December for an updated link with my talk :) 
 - Honored to have been selected as the first-ever recipient of the [CSE HACKS Spirit Award](https://cse.engin.umich.edu/stories/sarah-jabbour-selected-for-cse-hacks-spirit-award)!
 - "Learning Concept Credible Models for Mitigating Shortcuts" published in [NeurIPS](https://blog.neurips.cc/)! 
@@ -39,7 +41,7 @@ Publications
 ===
 
 **Measuring the Impact of AI in the Diagnosis of Hospitalized Patients:A Randomized Clinical Vignette Survey Study** <br/>
-**Sarah Jabbour**, David Fouhey, Stephanie Shepard, Thomas S. Valley, Ella A. Kazerooni, Nikola Banovic, Jenna Wiens\*, Michael W. Sjoding\*. *JAMA*. <br/>
+**Sarah Jabbour**, David Fouhey, Stephanie Shepard, Thomas S. Valley, Ella A. Kazerooni, Nikola Banovic, Jenna Wiens\*, Michael W. Sjoding\*. *JAMA 2023*. <br/> [\[Link\]](https://jamanetwork.com/journals/jama/article-abstract/2812908)
 
 <img src="/images/f2.png" style="height: 150px; width:300px;" align=left /> AI model explanations don't help clinicians recover from the negative impact of biased AI.<br/> 
 
