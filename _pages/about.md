@@ -41,7 +41,7 @@ Publications
 ===
 
 **Measuring the Impact of AI in the Diagnosis of Hospitalized Patients:A Randomized Clinical Vignette Survey Study** <br/>
-**Sarah Jabbour**, David Fouhey, Stephanie Shepard, Thomas S. Valley, Ella A. Kazerooni, Nikola Banovic, Jenna Wiens\*, Michael W. Sjoding\*. *JAMA 2023*. <br/> [\[Link\]](https://jamanetwork.com/journals/jama/article-abstract/2812908)
+**Sarah Jabbour**, David Fouhey, Stephanie Shepard, Thomas S. Valley, Ella A. Kazerooni, Nikola Banovic, Jenna Wiens\*, Michael W. Sjoding\*. *JAMA 2023*. [\[Link\]](https://jamanetwork.com/journals/jama/article-abstract/2812908) <br/> 
 
 <img src="/images/f2.png" style="height: 150px; width:300px;" align=left /> AI model explanations don't help clinicians recover from the negative impact of biased AI.<br/> 
 
