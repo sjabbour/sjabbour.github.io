@@ -15,11 +15,12 @@ I'm a Computer Science and Engineering PhD Candidate at the University of Michig
 
 I did my undergrad at the University of Michigan, where I received my BSE in [Computer Science and Engineering](https://cse.engin.umich.edu/) and my BBA from the [Ross School of Business](https://michiganross.umich.edu/). 
 
-**I am looking for research internship positions in Summer 2024. Please reach out (sjabbour [at] umich.edu) if you think I'd be a good match!** 
 
 News
 ===
-- I gave a talk at Michigan Medicine's MiCHAMP seminar series on AI for clinical diagnostic decision making. You can watch the video [here](https://www.youtube.com/watch?v=ng0ZDY8HmX0&list=PLNxqP-XbH8BICnKAp1e88b5ZEkZysWZob)! 
+- **4/23/2024**: Had a blast speaking at [Dr. Vineet Raghu's](https://aim.hms.harvard.edu/team/vineet-raghu) group meeting on developing AI tools for augmenting clinical care. 
+- **4/3/2024**: I gave a talk at the Meharry Medical College [SACS Trustworthy AI in Medical Systems Workshop](https://sacsmeharry.org/taims/#tab-workshops). You can watch the video [here](https://www.youtube.com/watch?v=QUMxTg3LMZA)!  
+- **2/16/2024**: I gave a talk at Michigan Medicine's MiCHAMP seminar series on AI for clinical diagnostic decision making. You can watch the video [here](https://www.youtube.com/watch?v=ng0ZDY8HmX0&list=PLNxqP-XbH8BICnKAp1e88b5ZEkZysWZob)! 
 - I was recently interviewed by [Health Tech News](https://htn.co.uk/) on the some of the challenges and opportunities of AI in healthcare. Check out the [article](https://htn.international/interview-sarah-jabbour-university-of-michigan-on-ai-in-healthcare/) to learn more about my work!
 - Our new study on measuring the impact of AI and AI explanations is now published in [JAMA](https://jamanetwork.com/journals/jama/article-abstract/2812908) and [it's](https://www.mdedge.com/cardiology/article/267133/pulmonology/systemic-bias-ai-models-may-undermine-diagnostic-accuracy?channel=224) [getting](https://fperrywilson.medium.com/explainability-is-a-poor-band-aid-for-biased-ai-in-medicine-3db62a338857) [some](https://www.medscape.com/viewarticle/999319?src=&form=fpf) [press](https://www.medpagetoday.com/special-reports/features/107944)!
 - Honored to have received the 2nd-place presentation award at the 20th University of Michigan [CSE Honors Competition](https://cse.engin.umich.edu/stories/2023-cse-honors-competition-highlights-outstanding-research-by-grad-students)! Thank you to Michigan AI for nominating me to represent the AI lab. 
