@@ -25,29 +25,23 @@ News
 - **3/20/2024**: I presented at the Lebanese American University School of Arts and Sciences seminar series on my work in clinician-AI interaction. Thanks for having me! 
 - **3/8/2024**: I gave a guest lecture for Dr. Marzyeh Ghassemi's course MIT EECS 6.S997 "Ethical Machine Learning in Human Deployments." Thank you for having me, it was a blast! 
 - **2/16/2024**: I gave a talk at Michigan Medicine's MiCHAMP seminar series on AI for clinical diagnostic decision making. You can watch the video [here](https://www.youtube.com/watch?v=ng0ZDY8HmX0&list=PLNxqP-XbH8BICnKAp1e88b5ZEkZysWZob)! 
-<!-- - I was recently interviewed by [Health Tech News](https://htn.co.uk/) on the some of the challenges and opportunities of AI in healthcare. Check out the [article](https://htn.international/interview-sarah-jabbour-university-of-michigan-on-ai-in-healthcare/) to learn more about my work!
-- Our new study on measuring the impact of AI and AI explanations is now published in [JAMA](https://jamanetwork.com/journals/jama/article-abstract/2812908) and [it's](https://www.mdedge.com/cardiology/article/267133/pulmonology/systemic-bias-ai-models-may-undermine-diagnostic-accuracy?channel=224) [getting](https://fperrywilson.medium.com/explainability-is-a-poor-band-aid-for-biased-ai-in-medicine-3db62a338857) [some](https://www.medscape.com/viewarticle/999319?src=&form=fpf) [press](https://www.medpagetoday.com/special-reports/features/107944)!
-- Honored to have received the 2nd-place presentation award at the 20th University of Michigan [CSE Honors Competition](https://cse.engin.umich.edu/stories/2023-cse-honors-competition-highlights-outstanding-research-by-grad-students)! Thank you to Michigan AI for nominating me to represent the AI lab. 
-- Honored to have been selected as the first-ever recipient of the [CSE HACKS Spirit Award](https://cse.engin.umich.edu/stories/sarah-jabbour-selected-for-cse-hacks-spirit-award)!
-- "Learning Concept Credible Models for Mitigating Shortcuts" published in [NeurIPS](https://blog.neurips.cc/)! 
-- "Combining chest X-rays and electronic health record (EHR) data using machine learning to diagnose acute respiratory failure" published in [JAMIA](https://academic.oup.com/jamia/article-abstract/29/6/1060/6546605)! 
-- "Augmenting existing deterioration indices with chest radiographs to predict clinical deterioration" published in [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263922)! 
-- "Respecting Autonomy and Enabling Diversity: The Effect of Eligibility and Enrollment on Research Data Demographics" published in [Health Affairs](https://www.healthaffairs.org/doi/10.1377/hlthaff.2021.01197)! 
-- "Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts" accepted at [MLHC](https://www.mlforhc.org/)! 
- -->
+
+
+
+
 
 
 Publications
 ===
 
 
-<br/> <br/> <br/> **DEPICT: Diffusion Enabled Permutation Impotance for Image Classification Tasks** <br/>
+<br/> **DEPICT: Diffusion Enabled Permutation Impotance for Image Classification Tasks** <br/>
 **Sarah Jabbour**, Gregory Kondas, Ella Kazerooni, Michael W. Sjoding, David Fouhey\*, Jenna Wiens\*. *ECCV 2024*. [\[Project page\]](sjabbour.github.io/depict) [\[code\]](https://github.com/MLD3/DEPICT) <br/>
 
-<img src="/images/depict_thumbnail.png" style="height: 150px; width:300px;" align=left /> Permutation feature importance has been used to explain tabular-based models. We extend this to images via text-conditioned diffusion to generate dataset-level explanations for image-based models!  <br/> 
+<img src="/images/f2.png" style="height: 150px; width:300px;" align=left /> Permutation feature importance has been used to explain tabular-based models. We extend this to images via text-conditioned diffusion to generate dataset-level explanations for image-based models!  <br/> 
 
 
-**Measuring the Impact of AI in the Diagnosis of Hospitalized Patients:A Randomized Clinical Vignette Survey Study** <br/>
+ <br/>**Measuring the Impact of AI in the Diagnosis of Hospitalized Patients:A Randomized Clinical Vignette Survey Study** <br/>
 **Sarah Jabbour**, David Fouhey, Stephanie Shepard, Thomas S. Valley, Ella A. Kazerooni, Nikola Banovic, Jenna Wiens\*, Michael W. Sjoding\*. *JAMA 2023*. [\[Link\]](https://jamanetwork.com/journals/jama/article-abstract/2812908) <br/> 
 
 <img src="/images/f2.png" style="height: 150px; width:300px;" align=left /> AI model explanations don't help clinicians recover from the negative impact of biased AI.<br/> 
@@ -108,5 +102,17 @@ Teaching
 Visitors
 === 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5bpxp1ey462&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+
+
+<!-- - I was recently interviewed by [Health Tech News](https://htn.co.uk/) on the some of the challenges and opportunities of AI in healthcare. Check out the [article](https://htn.international/interview-sarah-jabbour-university-of-michigan-on-ai-in-healthcare/) to learn more about my work!
+- Our new study on measuring the impact of AI and AI explanations is now published in [JAMA](https://jamanetwork.com/journals/jama/article-abstract/2812908) and [it's](https://www.mdedge.com/cardiology/article/267133/pulmonology/systemic-bias-ai-models-may-undermine-diagnostic-accuracy?channel=224) [getting](https://fperrywilson.medium.com/explainability-is-a-poor-band-aid-for-biased-ai-in-medicine-3db62a338857) [some](https://www.medscape.com/viewarticle/999319?src=&form=fpf) [press](https://www.medpagetoday.com/special-reports/features/107944)!
+- Honored to have received the 2nd-place presentation award at the 20th University of Michigan [CSE Honors Competition](https://cse.engin.umich.edu/stories/2023-cse-honors-competition-highlights-outstanding-research-by-grad-students)! Thank you to Michigan AI for nominating me to represent the AI lab. 
+- Honored to have been selected as the first-ever recipient of the [CSE HACKS Spirit Award](https://cse.engin.umich.edu/stories/sarah-jabbour-selected-for-cse-hacks-spirit-award)!
+- "Learning Concept Credible Models for Mitigating Shortcuts" published in [NeurIPS](https://blog.neurips.cc/)! 
+- "Combining chest X-rays and electronic health record (EHR) data using machine learning to diagnose acute respiratory failure" published in [JAMIA](https://academic.oup.com/jamia/article-abstract/29/6/1060/6546605)! 
+- "Augmenting existing deterioration indices with chest radiographs to predict clinical deterioration" published in [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263922)! 
+- "Respecting Autonomy and Enabling Diversity: The Effect of Eligibility and Enrollment on Research Data Demographics" published in [Health Affairs](https://www.healthaffairs.org/doi/10.1377/hlthaff.2021.01197)! 
+- "Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts" accepted at [MLHC](https://www.mlforhc.org/)! 
+ -->
 
 
