@@ -45,18 +45,17 @@ News
 Publications
 ===
 
+
+<br/> <br/> <br/> **DEPICT: Diffusion Enabled Permutation Impotance for Image Classification Tasks** <br/>
+**Sarah Jabbour**, Gregory Kondas, Ella Kazerooni, Michael W. Sjoding, David Fouhey\*, Jenna Wiens\*. *ECCV 2024*. <br/>
+
+<img src="/images/depict_thumbnail.pdf" style="height: 150px; width:300px;" align=left /> Permutation feature importance has been used to explain tabular-based models. We extend this to images via text-conditioned diffusion to generate dataset-level explanations for image-based models! [\[Project page\]](sjabbour.github.io/depict) [\[code\]](https://github.com/MLD3/DEPICT) <br/> 
+
+
 **Measuring the Impact of AI in the Diagnosis of Hospitalized Patients:A Randomized Clinical Vignette Survey Study** <br/>
 **Sarah Jabbour**, David Fouhey, Stephanie Shepard, Thomas S. Valley, Ella A. Kazerooni, Nikola Banovic, Jenna Wiens\*, Michael W. Sjoding\*. *JAMA 2023*. [\[Link\]](https://jamanetwork.com/journals/jama/article-abstract/2812908) <br/> 
 
 <img src="/images/f2.png" style="height: 150px; width:300px;" align=left /> AI model explanations don't help clinicians recover from the negative impact of biased AI.<br/> 
-
-
-<br/> <br/> <br/> **DEPICT: Diffusion Enabled Permutation Impotance for Image Classification Tasks** <br/>
-**Sarah Jabbour**, Gregory Kondas, Ella Kazerooni, Michael W. Sjoding, David Fouhey\*, Jenna Wiens\*. *In Submission*. <br/>
-
-<img src="/images/depict.png" style="height: 150px; width:300px;" align=left /> Permutation feature importance has been used to explain tabular-based models. We extend this to images via text-conditioned diffusion to generate dataset-level explanations for image-based models!<br/> 
-
-
 
 
 <br/> **Learning Concept Credible Models for Mitigating Shortcuts** <br/>
