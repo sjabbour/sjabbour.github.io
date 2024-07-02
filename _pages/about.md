@@ -34,11 +34,6 @@ News
 - "Augmenting existing deterioration indices with chest radiographs to predict clinical deterioration" published in [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263922)! 
 - "Respecting Autonomy and Enabling Diversity: The Effect of Eligibility and Enrollment on Research Data Demographics" published in [Health Affairs](https://www.healthaffairs.org/doi/10.1377/hlthaff.2021.01197)! 
 - "Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts" accepted at [MLHC](https://www.mlforhc.org/)! 
-
- -->
-<!-- Media
-===
-[![Little red riding hood](/images/interview.pdf)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
  -->
 
 
