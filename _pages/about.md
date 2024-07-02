@@ -25,7 +25,7 @@ News
 - **3/20/2024**: I presented at the Lebanese American University School of Arts and Sciences seminar series on my work in clinician-AI interaction. Thanks for having me! 
 - **3/8/2024**: I gave a guest lecture for Dr. Marzyeh Ghassemi's course MIT EECS 6.S997 "Ethical Machine Learning in Human Deployments." Thank you for having me, it was a blast! 
 - **2/16/2024**: I gave a talk at Michigan Medicine's MiCHAMP seminar series on AI for clinical diagnostic decision making. You can watch the video [here](https://www.youtube.com/watch?v=ng0ZDY8HmX0&list=PLNxqP-XbH8BICnKAp1e88b5ZEkZysWZob)! 
-- I was recently interviewed by [Health Tech News](https://htn.co.uk/) on the some of the challenges and opportunities of AI in healthcare. Check out the [article](https://htn.international/interview-sarah-jabbour-university-of-michigan-on-ai-in-healthcare/) to learn more about my work!
+<!-- - I was recently interviewed by [Health Tech News](https://htn.co.uk/) on the some of the challenges and opportunities of AI in healthcare. Check out the [article](https://htn.international/interview-sarah-jabbour-university-of-michigan-on-ai-in-healthcare/) to learn more about my work!
 - Our new study on measuring the impact of AI and AI explanations is now published in [JAMA](https://jamanetwork.com/journals/jama/article-abstract/2812908) and [it's](https://www.mdedge.com/cardiology/article/267133/pulmonology/systemic-bias-ai-models-may-undermine-diagnostic-accuracy?channel=224) [getting](https://fperrywilson.medium.com/explainability-is-a-poor-band-aid-for-biased-ai-in-medicine-3db62a338857) [some](https://www.medscape.com/viewarticle/999319?src=&form=fpf) [press](https://www.medpagetoday.com/special-reports/features/107944)!
 - Honored to have received the 2nd-place presentation award at the 20th University of Michigan [CSE Honors Competition](https://cse.engin.umich.edu/stories/2023-cse-honors-competition-highlights-outstanding-research-by-grad-students)! Thank you to Michigan AI for nominating me to represent the AI lab. 
 - Honored to have been selected as the first-ever recipient of the [CSE HACKS Spirit Award](https://cse.engin.umich.edu/stories/sarah-jabbour-selected-for-cse-hacks-spirit-award)!
@@ -35,7 +35,7 @@ News
 - "Respecting Autonomy and Enabling Diversity: The Effect of Eligibility and Enrollment on Research Data Demographics" published in [Health Affairs](https://www.healthaffairs.org/doi/10.1377/hlthaff.2021.01197)! 
 - "Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts" accepted at [MLHC](https://www.mlforhc.org/)! 
 
-
+ -->
 <!-- Media
 ===
 [![Little red riding hood](/images/interview.pdf)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
