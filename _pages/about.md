@@ -19,12 +19,13 @@ In my free time, I love spending time outside of the lab & very far away from my
 
 News
 ===
-- **5/22/2024**: I gave a talk at the [2024 Women in Data Science Worldwide at General Motors](https://www.gmwids.com/) conference, amongst a wonderful lineup of women in data science doing some really great stuff! 
-- **4/23/2024**: Had a blast speaking at [Dr. Vineet Raghu's](https://aim.hms.harvard.edu/team/vineet-raghu) group meeting on developing AI tools for augmenting clinical care. 
-- **4/3/2024**: I gave a talk at the Meharry Medical College [SACS Trustworthy AI in Medical Systems Workshop](https://sacsmeharry.org/taims/#tab-workshops). You can watch the video [here](https://www.youtube.com/watch?v=QUMxTg3LMZA)!  
-- **3/20/2024**: I presented at the Lebanese American University School of Arts and Sciences seminar series on my work in clinician-AI interaction. Thanks for having me! 
-- **3/8/2024**: I gave a guest lecture for Dr. Marzyeh Ghassemi's course MIT EECS 6.S997 "Ethical Machine Learning in Human Deployments." Thank you for having me, it was a blast! 
-- **2/16/2024**: I gave a talk at Michigan Medicine's MiCHAMP seminar series on AI for clinical diagnostic decision making. You can watch the video [here](https://www.youtube.com/watch?v=ng0ZDY8HmX0&list=PLNxqP-XbH8BICnKAp1e88b5ZEkZysWZob)! 
+- **7/2024**: **DEPICT: Diffusion-Enabled Permutation Importance for Image Classification Tasks** accepted at ECCV 2024. See you soon, Milan! 
+- **5/2024**: I gave a talk at the [2024 Women in Data Science Worldwide at General Motors](https://www.gmwids.com/) conference, amongst a wonderful lineup of women in data science doing some really great stuff! 
+- **4/2024**: Had a blast speaking at [Dr. Vineet Raghu's](https://aim.hms.harvard.edu/team/vineet-raghu) group meeting on developing AI tools for augmenting clinical care. 
+- **4/2024**: I gave a talk at the Meharry Medical College [SACS Trustworthy AI in Medical Systems Workshop](https://sacsmeharry.org/taims/#tab-workshops). You can watch the video [here](https://www.youtube.com/watch?v=QUMxTg3LMZA)!  
+- **3/2024**: I presented at the Lebanese American University School of Arts and Sciences seminar series on my work in clinician-AI interaction. Thanks for having me! 
+- **3/2024**: I gave a guest lecture for Dr. Marzyeh Ghassemi's course MIT EECS 6.S997 "Ethical Machine Learning in Human Deployments." Thank you for having me, it was a blast! 
+- **2/2024**: I gave a talk at Michigan Medicine's MiCHAMP seminar series on AI for clinical diagnostic decision making. You can watch the video [here](https://www.youtube.com/watch?v=ng0ZDY8HmX0&list=PLNxqP-XbH8BICnKAp1e88b5ZEkZysWZob)! 
 
 
 
