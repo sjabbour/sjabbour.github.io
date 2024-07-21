@@ -47,6 +47,8 @@ Publications
 <img src="/images/f2.png" style="height: 200px; width:400px;" align=left /> AI model explanations don't help clinicians recover from the negative impact of biased AI.<br/> 
 
 <br/> 
+<br/> 
+<br/> 
 <br/> **Learning Concept Credible Models for Mitigating Shortcuts** <br/>
 Jiaxuan Wang, **Sarah Jabbour**, Maggie Makar, Michael W. Sjoding, Jenna Wiens. *NeurIPS*, November 2022. [\[PDF\]](https://openreview.net/pdf?id=yKYCwTvl8eU)<br/>
 
