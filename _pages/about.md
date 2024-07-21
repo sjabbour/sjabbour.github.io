@@ -46,9 +46,6 @@ Publications
 
 <img src="/images/f2.png" style="height: 200px; width:400px;" align=left /> AI model explanations have been proposed to mitigate the harmful effects of innacurate AI, but the utility of such approaches have not been tested. We ran a survey study across 13 states and 450+ clinicians, showing that AI model explanations don't help clinicians recover from the negative impact of innacurate AI.<br/> 
 
-<br/> 
-<br/> 
-<br/> 
 <br/> **Learning Concept Credible Models for Mitigating Shortcuts** <br/>
 Jiaxuan Wang, **Sarah Jabbour**, Maggie Makar, Michael W. Sjoding, Jenna Wiens. *NeurIPS*, November 2022. [\[PDF\]](https://openreview.net/pdf?id=yKYCwTvl8eU)<br/>
 
