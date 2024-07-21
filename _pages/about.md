@@ -44,7 +44,7 @@ Publications
  <br/>**Measuring the Impact of AI in the Diagnosis of Hospitalized Patients:A Randomized Clinical Vignette Survey Study** <br/>
 **Sarah Jabbour**, David Fouhey, Stephanie Shepard, Thomas S. Valley, Ella A. Kazerooni, Nikola Banovic, Jenna Wiens\*, Michael W. Sjoding\*. *JAMA 2023*. [\[Link\]](https://jamanetwork.com/journals/jama/article-abstract/2812908) <br/> 
 
-<img src="/images/f2.png" style="height: 200px; width:400px;" align=left /> AI model explanations don't help clinicians recover from the negative impact of biased AI.<br/> 
+<img src="/images/f2.png" style="height: 200px; width:400px;" align=left /> AI model explanations have been proposed to mitigate the harmful effects of innacurate AI, but the utility of such approaches have not been tested. We ran a survey study across 13 states and 450+ clinicians, showing that AI model explanations don't help clinicians recover from the negative impact of innacurate AI.<br/> 
 
 <br/> 
 <br/> 
