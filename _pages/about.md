@@ -36,7 +36,7 @@ Publications
 
 
 <br/> **DEPICT: Diffusion Enabled Permutation Impotance for Image Classification Tasks** <br/>
-**Sarah Jabbour**, Gregory Kondas, Ella Kazerooni, Michael W. Sjoding, David Fouhey\*, Jenna Wiens\*. *ECCV 2024*. [\[Project page\]](sjabbour.github.io/depict) [\[code\]](https://github.com/MLD3/DEPICT) <br/>
+**Sarah Jabbour**, Gregory Kondas, Ella Kazerooni, Michael W. Sjoding, David Fouhey\*, Jenna Wiens\*. *ECCV 2024*. [\[Project page\]](mld3.github.io/depict) [\[PDF\]](files/jabbour_et_al_depict.pdf) [\[code\]](https://github.com/MLD3/DEPICT) <br/>
 
 <img src="/images/depict thumbnail.png" style="height: 150px; width:400px;" align=left /> Permutation feature importance has been used to explain tabular-based models. We extend this to images via text-conditioned diffusion to generate dataset-level explanations for image-based models!  <br/> 
 
@@ -44,9 +44,9 @@ Publications
  <br/>**Measuring the Impact of AI in the Diagnosis of Hospitalized Patients:A Randomized Clinical Vignette Survey Study** <br/>
 **Sarah Jabbour**, David Fouhey, Stephanie Shepard, Thomas S. Valley, Ella A. Kazerooni, Nikola Banovic, Jenna Wiens\*, Michael W. Sjoding\*. *JAMA 2023*. [\[Link\]](https://jamanetwork.com/journals/jama/article-abstract/2812908) <br/> 
 
-<img src="/images/f2.png" style="height: 150px; width:250px;" align=left /> AI model explanations don't help clinicians recover from the negative impact of biased AI.<br/> 
+<img src="/images/f2.png" style="height: 200px; width:400px;" align=left /> AI model explanations don't help clinicians recover from the negative impact of biased AI.<br/> 
 
-
+<br/> 
 <br/> **Learning Concept Credible Models for Mitigating Shortcuts** <br/>
 Jiaxuan Wang, **Sarah Jabbour**, Maggie Makar, Michael W. Sjoding, Jenna Wiens. *NeurIPS*, November 2022. [\[PDF\]](https://openreview.net/pdf?id=yKYCwTvl8eU)<br/>
 
