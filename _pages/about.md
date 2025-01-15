@@ -17,6 +17,8 @@ I did my undergrad at the University of Michigan, where I received my BSE in [Co
 
 In my free time, I love spending time outside of the lab & very far away from my computer. You'll generally find me at the gym [weightlifting](https://twitter.com/SarahJabbour_/status/1506438421341954052), baking (mostly croissants, sometimes cakes), or learning new instruments. 
 
+**I'm on the internship market for Spring/Summer 2025. Please reach out if you think I'd be a good fit!** 
+
 News
 ===
 - **7/2024**: **DEPICT: Diffusion-Enabled Permutation Importance for Image Classification Tasks** accepted at ECCV 2024. See you soon, Milan! 
