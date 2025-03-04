@@ -11,27 +11,33 @@ redirect_from:
 
 About Me [(CV)](files/Sarah_Jabbour_CV.pdf)
 ===
-I'm a Computer Science and Engineering PhD Candidate at the University of Michigan working with Professors [Jenna Wiens](https://wiens-group.engin.umich.edu/) and [David Fouhey](https://web.eecs.umich.edu/~fouhey/). I'm also a visiting academic at NYU. My research focuses on computer vision and human-computer interaction, with applications in healthcare. 
+I'm a Computer Science and Engineering PhD Candidate at the University of Michigan working with Professors [Jenna Wiens](https://wiens-group.engin.umich.edu/) and [David Fouhey](https://web.eecs.umich.edu/~fouhey/). I'm also a visiting academic at NYU. My research centers on developing AI tools to augment human decision making, inspired by problems in healthcare.
+I develop machine learning and computer vision techniques for improving AI generalization under distribution shift.
+In addition, I develop methods for improving human-AI collaboration (e.g., new generative AI-based explanation
+tools) and study how humans use such tools to make decisions through large-scale user studies.
 
 I did my undergrad at the University of Michigan, where I received my BSE in [Computer Science and Engineering](https://cse.engin.umich.edu/) and my BBA from the [Ross School of Business](https://michiganross.umich.edu/). 
 
 In my free time, I love spending time outside of the lab & very far away from my computer. You'll generally find me at the gym [weightlifting](https://twitter.com/SarahJabbour_/status/1506438421341954052), baking (mostly croissants, sometimes cakes), or learning new instruments. 
 
-**I'm on the internship market for Spring/Summer 2025. Please reach out if you think I'd be a good fit!** 
-
 News
 ===
 - **7/2024**: **DEPICT: Diffusion-Enabled Permutation Importance for Image Classification Tasks** accepted at ECCV 2024. See you soon, Milan! 
 - **5/2024**: I gave a talk at the [2024 Women in Data Science Worldwide at General Motors](https://www.gmwids.com/) conference, amongst a wonderful lineup of women in data science doing some really great stuff! 
-- **4/2024**: Had a blast speaking at [Dr. Vineet Raghu's](https://aim.hms.harvard.edu/team/vineet-raghu) group meeting on developing AI tools for augmenting clinical care. 
-- **4/2024**: I gave a talk at the Meharry Medical College [SACS Trustworthy AI in Medical Systems Workshop](https://sacsmeharry.org/taims/#tab-workshops). You can watch the video [here](https://www.youtube.com/watch?v=QUMxTg3LMZA)!  
-- **3/2024**: I presented at the Lebanese American University School of Arts and Sciences seminar series on my work in clinician-AI interaction. Thanks for having me! 
+<!-- - **4/2024**: Had a blast speaking at [Dr. Vineet Raghu's](https://aim.hms.harvard.edu/team/vineet-raghu) group meeting on developing AI tools for augmenting clinical care.  -->
+<!-- - **4/2024**: I gave a talk at the Meharry Medical College [SACS Trustworthy AI in Medical Systems Workshop](https://sacsmeharry.org/taims/#tab-workshops). You can watch the video [here](https://www.youtube.com/watch?v=QUMxTg3LMZA)!   -->
+<!-- - **3/2024**: I presented at the Lebanese American University School of Arts and Sciences seminar series on my work in clinician-AI interaction. Thanks for having me!  -->
 - **3/2024**: I gave a guest lecture for Dr. Marzyeh Ghassemi's course MIT EECS 6.S997 "Ethical Machine Learning in Human Deployments." Thank you for having me, it was a blast! 
-- **2/2024**: I gave a talk at Michigan Medicine's MiCHAMP seminar series on AI for clinical diagnostic decision making. You can watch the video [here](https://www.youtube.com/watch?v=ng0ZDY8HmX0&list=PLNxqP-XbH8BICnKAp1e88b5ZEkZysWZob)! 
-
-
-
-
+<!-- - **2/2024**: I gave a talk at Michigan Medicine's MiCHAMP seminar series on AI for clinical diagnostic decision making. You can watch the video [here](https://www.youtube.com/watch?v=ng0ZDY8HmX0&list=PLNxqP-XbH8BICnKAp1e88b5ZEkZysWZob)!  -->
+- I was recently interviewed by [Health Tech News](https://htn.co.uk/) on the some of the challenges and opportunities of AI in healthcare. Check out the [article](https://htn.international/interview-sarah-jabbour-university-of-michigan-on-ai-in-healthcare/) to learn more about my work!
+- Our new study on measuring the impact of AI and AI explanations is now published in [JAMA](https://jamanetwork.com/journals/jama/article-abstract/2812908) and [it's](https://www.mdedge.com/cardiology/article/267133/pulmonology/systemic-bias-ai-models-may-undermine-diagnostic-accuracy?channel=224) [getting](https://fperrywilson.medium.com/explainability-is-a-poor-band-aid-for-biased-ai-in-medicine-3db62a338857) [some](https://www.medscape.com/viewarticle/999319?src=&form=fpf) [press](https://www.medpagetoday.com/special-reports/features/107944)!
+- Honored to have received the 2nd-place presentation award at the 20th University of Michigan [CSE Honors Competition](https://cse.engin.umich.edu/stories/2023-cse-honors-competition-highlights-outstanding-research-by-grad-students)! Thank you to Michigan AI for nominating me to represent the AI lab. 
+- Honored to have been selected as the first-ever recipient of the [CSE HACKS Spirit Award](https://cse.engin.umich.edu/stories/sarah-jabbour-selected-for-cse-hacks-spirit-award)!
+<!-- - "Learning Concept Credible Models for Mitigating Shortcuts" published in [NeurIPS](https://blog.neurips.cc/)!  -->
+<!-- - "Combining chest X-rays and electronic health record (EHR) data using machine learning to diagnose acute respiratory failure" published in [JAMIA](https://academic.oup.com/jamia/article-abstract/29/6/1060/6546605)!  -->
+<!-- - "Augmenting existing deterioration indices with chest radiographs to predict clinical deterioration" published in [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263922)!  -->
+- "Respecting Autonomy and Enabling Diversity: The Effect of Eligibility and Enrollment on Research Data Demographics" published in [Health Affairs](https://www.healthaffairs.org/doi/10.1377/hlthaff.2021.01197)! 
+- "Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts" accepted at [MLHC](https://www.mlforhc.org/)! 
 
 
 Publications
@@ -106,15 +112,6 @@ Visitors
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5bpxp1ey462&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
 
-<!-- - I was recently interviewed by [Health Tech News](https://htn.co.uk/) on the some of the challenges and opportunities of AI in healthcare. Check out the [article](https://htn.international/interview-sarah-jabbour-university-of-michigan-on-ai-in-healthcare/) to learn more about my work!
-- Our new study on measuring the impact of AI and AI explanations is now published in [JAMA](https://jamanetwork.com/journals/jama/article-abstract/2812908) and [it's](https://www.mdedge.com/cardiology/article/267133/pulmonology/systemic-bias-ai-models-may-undermine-diagnostic-accuracy?channel=224) [getting](https://fperrywilson.medium.com/explainability-is-a-poor-band-aid-for-biased-ai-in-medicine-3db62a338857) [some](https://www.medscape.com/viewarticle/999319?src=&form=fpf) [press](https://www.medpagetoday.com/special-reports/features/107944)!
-- Honored to have received the 2nd-place presentation award at the 20th University of Michigan [CSE Honors Competition](https://cse.engin.umich.edu/stories/2023-cse-honors-competition-highlights-outstanding-research-by-grad-students)! Thank you to Michigan AI for nominating me to represent the AI lab. 
-- Honored to have been selected as the first-ever recipient of the [CSE HACKS Spirit Award](https://cse.engin.umich.edu/stories/sarah-jabbour-selected-for-cse-hacks-spirit-award)!
-- "Learning Concept Credible Models for Mitigating Shortcuts" published in [NeurIPS](https://blog.neurips.cc/)! 
-- "Combining chest X-rays and electronic health record (EHR) data using machine learning to diagnose acute respiratory failure" published in [JAMIA](https://academic.oup.com/jamia/article-abstract/29/6/1060/6546605)! 
-- "Augmenting existing deterioration indices with chest radiographs to predict clinical deterioration" published in [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263922)! 
-- "Respecting Autonomy and Enabling Diversity: The Effect of Eligibility and Enrollment on Research Data Demographics" published in [Health Affairs](https://www.healthaffairs.org/doi/10.1377/hlthaff.2021.01197)! 
-- "Deep Learning Applied to Chest X-Rays: Exploiting and Preventing Shortcuts" accepted at [MLHC](https://www.mlforhc.org/)! 
- -->
+
 
 
