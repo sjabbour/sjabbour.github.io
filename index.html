@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sarah Jabbour – AI Researcher</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-pUxyuN24kYfUQ6Ewo2yG0s/DPKq0mkY2YsIoKCTaAk3Xaf3u/uZOJfAPgXcZ+XQ1LA5Lxx0dHIWdl5h0P4I4Ug==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header id="home">
+    <nav class="nav">
+      <div class="container nav-container">
+        <div class="nav-left"></div>
+        <div class="nav-right">
+          <a href="#home">Home</a>
+          <a href="#research">Research</a>
+          <a href="#news">News</a>
+          <a href="#publications">Publications</a>
+          <a href="#contact">Contact</a>
+          <a href="assets/files/Sarah_Jabbour_CV.pdf" class="cv-link">CV</a>
+        </div>
+      </div>
+    </nav>
+    <section class="hero">
+      <div class="container hero-content">
+        <img src="assets/images/headshot.jpeg" alt="Sarah Jabbour portrait" class="headshot">
+        <!-- Hero text is loaded from Markdown. The container below will be populated
+             dynamically by marked.js at runtime. -->
+        <div class="hero-text" id="hero-content">
+          <!-- Content from data/hero.md will be injected here -->
+        </div>
+      </div>
+    </section>
+  </header>
+
+  <section id="research" class="section research-section">
+    <div class="container">
+      <!-- Research content will be loaded from Markdown. We wrap the parsed
+           markup in a container so that it inherits site styles. -->
+      <div id="research-content"></div>
+    </div>
+  </section>
+
+  <section id="news" class="section news-section">
+    <div class="container">
+      <h2>News</h2>
+      <div id="news-container" class="news-content"></div>
+    </div>
+  </section>
+
+  <section id="publications" class="section alt">
+    <div class="container">
+      <h2>Recent Publications</h2>
+      <div id="publications-container" class="publications"></div>
+    </div>
+  </section>
+
+
+
+  <section id="contact" class="section">
+    <div class="container">
+      <h2>Contact</h2>
+      <p>If you’d like to connect or learn more about my work, feel free to reach out!</p>
+      <ul class="contact-list">
+        <li><strong>Email:</strong> sjabbour [at] umich.edu</a></li>
+        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sarah-jabbour/" target="_blank">sarah-jabbour</a></li>
+        <li><strong>Twitter:</strong> <a href="https://twitter.com/SarahJabbour_" target="_blank">@SarahJabbour_</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2025 Sarah Jabbour. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="assets/js/marked.min.js"></script>
+
+  <script>
+    // Render publications from Markdown
+    fetch('data/publications.md')
+      .then(res => res.text())
+      .then(text => {
+        const html = marked.parse(text);
+        document.getElementById('publications-container').innerHTML = html;
+      });
+
+    // Render news from Markdown
+    fetch('data/news.md')
+      .then(res => res.text())
+      .then(text => {
+        const html = marked.parse(text);
+        document.getElementById('news-container').innerHTML = html;
+      });
+
+    // Render hero section from Markdown
+    fetch('data/hero.md')
+      .then(res => res.text())
+      .then(text => {
+        // Use marked to parse the Markdown. The hero markdown includes
+        // headings and paragraphs. We wrap the result in a div to allow
+        // existing CSS styles (e.g. h1, p) to take effect. According to
+        // CSS‑Tricks, `marked()` converts Markdown to HTML and the HTML can be
+        // inserted into the DOM using `innerHTML`【174524797943441†L39-L56】.
+        const html = marked.parse(text);
+        document.getElementById('hero-content').innerHTML = html;
+      });
+
+    // Render research section from Markdown
+    fetch('data/research.md')
+      .then(res => res.text())
+      .then(text => {
+        const html = marked.parse(text);
+        document.getElementById('research-content').innerHTML = html;
+      });
+  </script>
+</body>
+</html>

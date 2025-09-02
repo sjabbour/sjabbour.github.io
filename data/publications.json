@@ -1,0 +1,64 @@
+[
+  {
+    "title": "DEPICT: Diffusion Enabled Permutation Importance for Image Classification Tasks",
+    "authors": "Sarah Jabbour, Gregory Kondas, Ella Kazerooni, Michael W. Sjoding, David Fouhey, Jenna Wiens",
+    "venue": "ECCV",
+    "year": 2024,
+    "description": "Extends permutation feature importance to images by using text‑conditioned diffusion to generate dataset‑level explanations for image classifiers.",
+    "thumbnail": "assets/images/placeholder.png",
+    "links": {
+      "paper": "#",
+      "website": "#",
+      "code": "#"
+    },
+    "press": [
+      {
+        "title": "Press coverage example",
+        "url": "#",
+        "thumbnail": "assets/images/placeholder.png"
+      }
+    ]
+  },
+  {
+    "title": "Measuring the Impact of AI in the Diagnosis of Hospitalized Patients",
+    "authors": "Sarah Jabbour, David Fouhey, Stephanie Shepard, Thomas S. Valley, Ella A. Kazerooni, Nikola Banovic, Jenna Wiens, Michael W. Sjoding",
+    "venue": "JAMA",
+    "year": 2023,
+    "description": "Presents a randomized vignette survey showing that AI explanations do not significantly help clinicians recover from incorrect AI recommendations.",
+    "thumbnail": "assets/images/placeholder.png",
+    "links": {
+      "paper": "#",
+      "website": "#",
+      "code": "#"
+    },
+    "press": []
+  },
+  {
+    "title": "Learning Concept Credible Models for Mitigating Shortcuts",
+    "authors": "Jiaxuan Wang, Sarah Jabbour, Maggie Makar, Michael W. Sjoding, Jenna Wiens",
+    "venue": "NeurIPS",
+    "year": 2022,
+    "description": "Introduces a regularization penalty that encourages models to focus on meaningful clinical concepts instead of spurious correlations.",
+    "thumbnail": "assets/images/placeholder.png",
+    "links": {
+      "paper": "#",
+      "website": "#",
+      "code": "#"
+    },
+    "press": []
+  },
+  {
+    "title": "Combining Chest X‑rays and Electronic Health Records to Diagnose Acute Respiratory Failure",
+    "authors": "Sarah Jabbour, David Fouhey, Ella Kazerooni, Jenna Wiens, Michael W. Sjoding",
+    "venue": "JAMIA",
+    "year": 2022,
+    "description": "Builds a multimodal model that predicts causes of acute respiratory failure by integrating chest X‑rays with clinical data.",
+    "thumbnail": "assets/images/placeholder.png",
+    "links": {
+      "paper": "#",
+      "website": "#",
+      "code": "#"
+    },
+    "press": []
+  }
+]
