@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sarah Jabbour – AI Researcher</title>
@@ -118,5 +120,25 @@
         document.getElementById('research-content').innerHTML = html;
       });
   </script>
+  <script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const containers = document.querySelectorAll(".markdown-container");
+
+    containers.forEach(container => {
+      const src = container.getAttribute("src");
+      if (!src) return;
+
+      fetch(src)
+        .then(response => response.text())
+        .then(md => {
+          container.innerHTML = marked.parse(md);
+        })
+        .catch(err => {
+          console.error(`Failed to load markdown from ${src}:`, err);
+          container.innerHTML = "<p><em>Could not load content.</em></p>";
+        });
+    });
+  });
+</script>
 </body>
 </html>
