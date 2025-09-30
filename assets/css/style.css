@@ -101,7 +101,7 @@ a:hover {
 
 .headshot {
   width: 300px;
-  height: 300px;
+  height:  auto;
   border-radius: 5%;
   object-fit: cover;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
