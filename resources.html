@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Resources – Sarah Jabbour</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <script src="assets/js/marked.min.js"></script>
+</head>
+<body>
+
+
+  <main class="section" id="resources">
+    <div class="container">
+      <h1>Resources</h1>
+      <div id="resources-content">
+        <!-- Markdown will be injected here -->
+      </div>
+    </div>
+  </main>
+
+  <script>
+    fetch('data/resources.md')
+      .then(res => res.text())
+      .then(text => {
+        const html = marked.parse(text);
+        document.getElementById('resources-content').innerHTML = html;
+      });
+  </script>
+
+</body>
+</html>
