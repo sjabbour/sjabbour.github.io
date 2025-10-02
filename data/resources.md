@@ -2,4 +2,4 @@ I'm going to keep a running list of things I find useful for researchers/PhD stu
 
 <br> 
 
-- Applying to PhDs can be very confusing, especially for students who don't have much guidance on navigating this system. Here is my  <a href="assets/files/Sarah Jabbour PhD Research Statement.pdf" >research statement</a> that I used for PhD Applications. Hope it helps at least a few students with writing their own statements! 
+- Applying to PhDs can be very confusing, especially for students who don't have much guidance on navigating this system. Here is my  <a href="assets/files/SOP_Michigan_final.pdf" >research statement</a> that I used for PhD Applications. Hope it helps at least a few students with writing their own statements! 
