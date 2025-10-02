@@ -248,6 +248,8 @@ a:hover {
   font-size: 1.1rem;
   line-height: 1.7;
   background: linear-gradient(135deg, #FDF6F0 0%, #FDF6F0 100%);
+  text-align: left;
+
 }
 
 
