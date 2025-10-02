@@ -237,6 +237,20 @@ a:hover {
   color: #555;"
 }
 
+#resources {
+  background-color: #fdf8f2;
+  padding: 60px 20px;
+  text-align: center;
+
+}
+
+#resources-content {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  background: linear-gradient(135deg, #FDF6F0 0%, #FDF6F0 100%);
+}
+
+
 /* When research content is loaded from Markdown, the list isn’t wrapped in
    the custom .research-list class. These rules ensure similar spacing and
    typography for Markdown lists inside the research section. */
