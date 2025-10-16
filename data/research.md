@@ -1,7 +1,9 @@
 ## Research Interests
 
-My ultimate goal is to build AI that can help humans (like doctors) make better decisions, at scale. My work spans machine learning, computer vision, and human-AI interaction with a focus on AI for healthcare: 
+I design multimodal AI systems that help humans reason and make decisions in complex, high-stakes environments. My work bridges machine learning, computer vision, and human–AI interaction.
 
-- **Generalization under distribution shift:** AI models peform well when applied to in-distribution data, but break in new settings (e.g., new hospitals). I design methods for more robust models, even under new conditions. 
-- **AI explainability:** Current explanation methods for vision models are pixel-based (e.g., salience maps), but are difficult to understand for expert users (e.g., clinicians). I develop generative AI–driven approaches that provide concept-level explanations for image models.
-- **Human–AI collaboration:** Few studies have been done to understand how AI actually impacts *real* clinical decisions in *real* clinical scenarios. I conduct large-scale randomized studies (750+ clinicians) on real patient cases to measure how AI interventions affect clinical decisions.
+
+- **Multimodal AI:** I develop models that integrate diverse data types (e.g., images, time-series, tabular data) to better capture complex real-world phenomena.
+- **Generalization under distribution shift:** AI systems often fail when deployed in new environments. I study methods to improve robustness and reliability, especially in settings where human over-reliance on AI can have serious consequences.
+- **AI explainability:** Existing explanation tools for vision models (like saliency maps) are often too low-level for domain experts. I create generative, concept-based explanation methods that align more naturally with human reasoning. 
+- **Human–AI collaboration:** Understanding how AI shapes real decisions is critical. I’ve led large-scale randomized studies across 13 U.S. states (750+ clinicians, 15,000+ minutes of clinician interaction) to evaluate how AI assistance changes diagnostic and treatment behavior.
