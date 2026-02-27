@@ -136,11 +136,11 @@
     <div class="pub-title">
 	Deep Learning Applied to Chest X-rays: Exploiting and Preventing Shortcuts
 	</div>
-    <div class="pub-authors"><strong>Sarah Jabbour</strong>, David Fouhey, Ella Kazerooni, Michael W. Sjoding</div>
+    <div class="pub-authors"><strong>Sarah Jabbour</strong>, David Fouhey, Ella Kazerooni, Michael W. Sjoding, Jenna Wiens</div>
     <div class="pub-venue"><em>MLHC</em>, 2020</div>
     <div class="pub-description">Shows how deep learning models can learn clinically irrelevant shortcuts — and introduces methods to prevent it.</div>
   <div class="pub-links" style="margin-top: 6px;">
-    <a href="assets/jabbour20.pdf" >paper</a> / <a href="https://gitlab.eecs.umich.edu/mld3/deep-learning-applied-to-chest-x-rays-exploiting-and-preventing-shortcuts">code</a> / <a href="https://www.youtube.com/watch?v=xzSL7f5CjzI&t=5s">video</a>
+    <a href="assets/files/jabbour20.pdf" >paper</a> / <a href="https://gitlab.eecs.umich.edu/mld3/deep-learning-applied-to-chest-x-rays-exploiting-and-preventing-shortcuts">code</a> / <a href="https://www.youtube.com/watch?v=xzSL7f5CjzI&t=5s">video</a>
   </div>   
 </div>
 </div>
