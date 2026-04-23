@@ -1,4 +1,7 @@
+**[March 2026]** I defended my PhD thesis titled "Towards AI-Augmented Clinical Decision-Making." You can watch it [here](https://youtu.be/7XkOKCUXrUo?si=BRPfH4WK2g7B9B7s)! 
+
 **[August 2025]** Our preprint *"On the Limits of Selective AI Prediction: A Case Study in Clinical Decision Making"* out on Arxiv! 
+
 
 **[April 2025]** I've been awarded the [Towner Prize for Outstanding Graduate Student Instructors (GSIs)](https://cse.engin.umich.edu/stories/sarah-jabbour-receives-towner-prize-for-outstanding-gsis) by the University of Michigan College of Engineering for my contributions as a GSI in EECS 442: Introduction to Computer Vision. 
 
