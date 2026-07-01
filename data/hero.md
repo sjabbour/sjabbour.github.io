@@ -4,7 +4,7 @@
 site’s CSS. -->
 <!-- <p class="subtitle">Computer Science PhD Candidate · AI &amp; Healthcare</p> -->
 
-I am an incoming Assistant Professor of Applied AI at [Chicago Booth](https://www.chicagobooth.edu/), starting July 2026. 
+I am an Assistant Professor of Applied AI at [Chicago Booth](https://www.chicagobooth.edu/). 
 
 **I'm hiring a postdoctoral research scientist to work with me at Booth on AI + Healthcare!** See the posting [here](https://www.chicagobooth.edu/-/media/faculty/research-professional-program/job-ads/2025-26/jabbour-principal-researcher-ad.pdf). Please do not email me directly, but instead apply directly through the link. I will look over all applications and reach out to candidates that may be a good fit. 
 
