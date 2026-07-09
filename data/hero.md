@@ -4,7 +4,7 @@
 site’s CSS. -->
 <!-- <p class="subtitle">Computer Science PhD Candidate · AI &amp; Healthcare</p> -->
 
-I am an Assistant Professor of Applied AI and Fishman Faculty Fellow at [Chicago Booth](https://www.chicagobooth.edu/). 
+I am an Assistant Professor of Applied AI and Fishman Faculty Fellow at [Chicago Booth](https://www.chicagobooth.edu/). I am generally interested in the design, evaluation, and deployment of AI systems aimed at augmenting human decision-making. My work has spanned multimodal AI, interpretability, and randomized trials for human-AI teaming, and I often focus on healthcare applications. 
 
 **I'm hiring a postdoctoral research scientist to work with me at Booth on AI + Healthcare!** See the posting [here](https://www.chicagobooth.edu/-/media/faculty/research-professional-program/job-ads/2025-26/jabbour-principal-researcher-ad.pdf). Please do not email me directly, but instead apply directly through the link. I will look over all applications and reach out to candidates that may be a good fit. 
 
