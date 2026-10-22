@@ -91,27 +91,28 @@ a:hover {
 }
 
 .hero-content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  max-width: 1400px;
+  display: flow-root;
+  max-width: 1000px;
   margin: 0 auto;
-  padding: 0 0px;
+  padding: 0 24px;
+  text-align: left;
 }
 
 .headshot {
-  width: 300px;
-  height:  auto;
+  width: clamp(110px, 24vw, 220px);
+  height: auto;
+  float: left;
+  margin: 0 clamp(20px, 4vw, 40px) 20px 0;
   border-radius: 5%;
   object-fit: cover;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  margin-bottom: 20px;
 }
 
-.hero-text h1 {
-  font-size: 2.6rem;
+.hero-name {
+  margin-bottom: 16px;
+  font-size: clamp(1.8rem, 4vw, 3.2rem);
   font-weight: 700;
-  margin-bottom: 8px;
+  line-height: 1.15;
 }
 
 .hero-text .subtitle {
@@ -121,6 +122,7 @@ a:hover {
 }
 
 .hero-text p {
+  text-align: justify;
   font-size: 1.2rem;
   color: #555;
   max-width: 900px;
@@ -367,16 +369,6 @@ a:hover {
 
 /* Responsive adjustments */
 @media (min-width: 768px) {
-  .hero-content {
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    text-align: left;
-  }
-  .headshot {
-    margin-right: 40px;
-    margin-bottom: 0;
-  }
   .nav-right a {
     margin-left: 30px;
   }
@@ -463,4 +455,13 @@ a:hover {
   margin-top: 18px;
   margin-bottom: 8px;
   font-size: 1.2rem;
+}
+
+/* Justify body copy throughout the site. */
+.section p,
+.section li,
+.pub-description,
+.pub-authors,
+.pub-details .desc {
+  text-align: justify;
 }
