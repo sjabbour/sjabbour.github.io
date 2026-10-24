@@ -12,4 +12,4 @@ Due to the volume of emails I receive and my limited time, I unfortunately do no
 
 **If you are looking to become a UChicago PhD student:** I am not currently taking on direct advisees, and Booth does not yet have an Applied AI PhD program. That may change in future years, so definitely keep an eye out if that is of interest to you.
 
-**If you are a UChicago student looking for research:** I am not taking on direct advisees, though I am generally happy to meet with UChicago students if my schedule allows and I believe there is a good fit.
+**If you are a UChicago student looking for research:** I am not taking on direct advisees, though I am generally happy to meet with UChicago students if my schedule allows and I believe there is a good fit (though I will not meet with anyone who sends me an AI-generated email!) 
